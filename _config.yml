@@ -1,0 +1,14 @@
+layout_spectrum: 0.1451613
+typography_spectrum: 0.8996416
+color:
+  saturation: 0.6181927
+  lightness: 0.4285178
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#D6D6D6'
+    - '#3C3C3C'
+    - '#979797'
+  rhythmicContrast: 0.1075156
+name: ASPECT HOMME
